@@ -1,0 +1,7 @@
+#ides
+.vscode
+.idea
+
+# build output folders
+bin
+obj
